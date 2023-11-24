@@ -3,7 +3,7 @@ const mysql2 = require('mysql2/promise');
 const dbConfig = {
     host: 'src-database_mysql-1',
     user: 'root',
-    password: '160503',
+    password: '123',
     database: 'ods'
 };
 
